@@ -1,0 +1,3 @@
+[submodule "gitttest"]
+	path = gitttest
+	url = git@github.com:csuvikg/gitttest.git
